@@ -1,0 +1,2 @@
+# kotramma-pearl
+pearlThoughts assignment
